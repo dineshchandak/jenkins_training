@@ -1,1 +1,1 @@
-# jenkins_training is about to end
+# jenkins_training was a good refresher
